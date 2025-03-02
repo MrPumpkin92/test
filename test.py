@@ -1,1 +1,1 @@
-print("no")
+print("Thank you but")
